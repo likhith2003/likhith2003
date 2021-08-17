@@ -1,16 +1,16 @@
-### Hi there 👋
+#                                                 Hi there 👋
 
-<!--
-**likhith2003/likhith2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ### I am 2nd year UG at [Industrial and systems engineering,IIT Kharagpur](http://www.iitkgp.ac.in/department/IM)
 
-Here are some ideas to get you started:
+**-  Striving for excellence in my life **
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**- Highly interested in Open source and principles of https://www.fsf.org/  |  [@torvalds](github.com/torvalds) is my god father **
+
+**- 🌱 I’m currently learning ... My Bookmark Websites 😎 , DSA. **
+
+**- 🤔 I’m looking for help with ... Learning go programming language **
+**- 💬 Lets Discuss about ... Linux,Open source,Devops,Docker,Kubernetes,Bakcend WebDevelopment **
+**- 📫 How to reach me: ... klsganesh@protonmail.com **
+**- 😄 Pronouns: ...He,his **
+- 
