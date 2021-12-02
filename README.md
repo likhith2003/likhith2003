@@ -1,8 +1,8 @@
 #                                                 Haribol 👋
 
 - ## I am 2nd year UG at [Industrial and systems engineering,IIT Kharagpur](http://www.iitkgp.ac.in/department/IM).
-- ## I study and apply what is taught [here](vedabase.io).
-- ## Highly interested in Open source and principles of https://www.fsf.org/  
+- ## I study and apply what is taught [here](https://vedabase.io).
+- ## Highly interested in Open source and principles of [FSF](https://www.fsf.org/)  
 - > I love [@torvalds](https://github.com/torvalds)
 - ## 💬 Lets Discuss about ... Linux,Open source,Devops,_DSA_.
 - ## 📫 How to reach me: ... klsganesh@protonmail.com.
