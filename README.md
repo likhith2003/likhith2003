@@ -1,11 +1,11 @@
 #                                                 _Hare Krishna_ 👋
 
-- ## I am 2nd year UG at [Industrial and systems engineering,IIT Kharagpur](http://www.iitkgp.ac.in/department/IM).
+- ## I am 3rd year UG at [Industrial and systems engineering,IIT Kharagpur](http://www.iitkgp.ac.in/department/IM).
 - ## I study and apply what is taught [here](https://vedabase.io).
 - ## Highly interested in Open source and principles of [FSF](https://www.fsf.org/)  
 - > I love [@torvalds](https://github.com/torvalds)
-- ## 💬 Lets Discuss about ... Linux,Open source,*Information Security*,Devops,_DSA_.
-- ## 📫 How to reach me: ... klsganesh@protonmail.com.
+- ## 💬 Lets Discuss about ... Linux,Open source,*Information Security*,_Devops_.
+- ## 📫 How to reach me: ... klsganesh@proton.me
 - ## 😄 Pronouns:... He,Him.
 
 - __Stats__
