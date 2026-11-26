@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://hanzo.ai/badges/hanzo-intern-26.svg">
+  <img src="https://hanzo.ai/badges/hanzo-intern-26-light.svg" alt="Hanzo Intern '26">
+</picture>
+
 <!--
 **likhith2003/likhith2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
